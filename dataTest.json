@@ -1,0 +1,67 @@
+{
+    "photo": "https://imagedelivery.net/5PINKmDD36CxE5YVj8ryUg/1148c097-f890-4812-c8ac-c25cb1da3800/avatar",
+    "name": "",
+    "tittle": "",
+    "city": "",
+    "birthdate": "",
+    "mail": "",
+    "phone": "",
+    "jobs": [
+        {
+            "name":"",
+            "begin":"",
+            "job":""
+        },{
+            "name":"",
+            "begin":"",
+            "job":""
+        }
+    ],
+    "education": [
+        {
+            "name":"",
+            "institute":"",
+            "begin":"",
+            "end":""
+        },{
+            "name":"",
+            "institute":"",
+            "begin":"",
+            "end":""
+        }
+    ],
+    "links": {
+        "github": "https://github.com/",
+        "instagram": "https://www.instagram.com/",
+        "linkedin": "https://www.linkedin.com/",
+        "web": ""
+    },
+    "tags": {
+        "lenguage": [{
+            "name":"spanish",
+            "level":"native"
+        },{
+            "name":"english",
+            "level":"basic"
+        }],
+        "skills": [{
+            "name":"Svelte",
+            "level":"basic"
+        },{
+            "name":"React",
+            "level":"basic"
+        },{
+            "name":"Bootstrap",
+            "level":"basic"
+        },{
+            "name":"NodeJS",
+            "level":"expert"
+        },{
+            "name":"PHP",
+            "level":"advanced"
+        },{
+            "name":"C#",
+            "level":"advanced"
+        }]
+    }
+}
