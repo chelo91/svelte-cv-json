@@ -4,12 +4,12 @@
 
 <style>
     ul,li {
-		background-color: #d6d2c7;
-		color: #0066c0;
+		background-color: var(--background-color-element);
+		color: var(--color-element);
 	}
 	:global(body.dark-mode) ul, :global(body.dark-mode) li {
-		background-color: #2c4961;
-		color: #d9dce2;
+		background-color: var(--background-color-element-dark);
+		color: var(--color-element-dark);
 	}
 
 </style>
