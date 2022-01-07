@@ -1,0 +1,101 @@
+{
+    "photo": "https://imagedelivery.net/5PINKmDD36CxE5YVj8ryUg/1148c097-f890-4812-c8ac-c25cb1da3800/avatar",
+    "name": "Marcelo Aguirre",
+    "tittle": "Web Developer",
+    "city": "Montevideo, Uruguay",
+    "birthdate": "02/08/1991",
+    "mail": "marzelo.aguirre@gmail.com",
+    "phone": "097400894",
+    "jobs": [
+        {
+            "name":"Nibiru",
+            "begin":"03/2020",
+            "job":"Developer and Technical support"
+        },{
+            "name":"Sur Palermo",
+            "begin":"09/2018",
+            "job":"Computer teacher"
+        },{
+            "name":"SICFE",
+            "begin":"06/2017",
+            "end":"11/2017",
+            "job":"Technical support"
+        },
+        {
+            "name":"EGS",
+            "begin":"11/2015",
+            "end":"01/2016",
+            "job":"Telephone support"
+        },
+        {
+            "name":"Aldecoa y Cia",
+            "begin":"07/2014",
+            "end":"07/2015",
+            "job":"Developer"
+        },
+        {
+            "name":"Netgate",
+            "begin":"08/2013",
+            "end":"06/2014",
+            "job":"Telephone support"
+        },
+        {
+            "name":"Facultad de Arquitectura",
+            "begin":"07/2012",
+            "end":"07/2013",
+            "job":"Technical support"
+        }
+    ],
+    "education": [
+        {
+            "name":"Marketing Analyst",
+            "institute":"ORT",
+            "begin":"2019",
+            "end":"2020"
+        },{
+            "name":"Web Developer",
+            "institute":"ORT",
+            "begin":"2014",
+            "end":"2016"
+        },{
+            "name":"Computer Bachelorship",
+            "institute":"UTU Buceo",
+            "begin":"2007",
+            "end":"2009"
+        }
+    ],
+    "links": {
+        "github": "https://github.com/chelo91",
+        "instagram": "https://www.instagram.com/soych3lo",
+        "linkedin": "https://www.linkedin.com/in/marcelo-aguirre-4b01a6184/",
+        "web": "https://chelo.xyz"
+    },
+    "tags": {
+        "lenguage": [{
+            "name":"Spanish",
+            "level":"native"
+        },{
+            "name":"English",
+            "level":"basic"
+        }],
+        "skills": [{
+            "name":"Svelte",
+            "level":"basic"
+        },{
+            "name":"React",
+            "level":"basic"
+        },{
+            "name":"Bootstrap",
+            "level":"basic"
+        },{
+            "name":"NodeJS",
+            "level":"basic"
+        },{
+            "name":"PHP",
+            "level":"advanced"
+        },{
+            "name":"C#",
+            "level":"advanced"
+        }]
+    }
+}
