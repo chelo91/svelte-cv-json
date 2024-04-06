@@ -5,8 +5,8 @@
 	export let birthdate="";
 	export let mail="";
 	export let phone="";
-	export let links={};
-	export let tags={};
+	export let links=[];
+	export let tags=[];
 
 </script>
 <style>
@@ -68,7 +68,7 @@
 		  </h2>
 		  <div id="collapseLenguage" class="accordion-collapse collapse" aria-labelledby="headingLenguage" data-bs-parent="#accordionBasicInfo">
 			<div class="accordion-body">
-				<BarsSkills skills={tags.lenguage}/>
+				<BarsSkills skills={tags.language}/>
 			</div>
 		  </div>
 		</div>
